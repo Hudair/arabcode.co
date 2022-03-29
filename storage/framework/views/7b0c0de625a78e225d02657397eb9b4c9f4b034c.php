@@ -1,0 +1,1 @@
+<?php echo $__env->make("back.settings.{$view}", \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\laragon\www\valexa\resources\views\back\settings\index.blade.php ENDPATH**/ ?>
